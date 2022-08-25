@@ -1,10 +1,8 @@
 # Welcome to the Github for the Programmers User Group for Statistics
 
-*We appreciate your input and assistance for your fellow coders*
+![alt text](https://github.com/statistical-programming-workgroup/.github/blob/main/PUGS_logo-removebg-preview.png)
 
-![alt text](https://github.com/statistical-programming-workgroup/.github/blob/main/gratitude%20raccoon.png)
-
-Owners of this org:
+### Owners of this Github org:
 1. Brenda Woodward
 2. Mayra Smith-Coronado
 3. Michael Martinez
